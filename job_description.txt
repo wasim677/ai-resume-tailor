@@ -1,0 +1,6 @@
+Position: AI Automation Developer
+Requirements:
+- Strong Python scripting skills
+- Experience working with LLM APIs (OpenAI / Anthropic)
+- Ability to build fast prototypes and workflow automations
+- Strong problem-solving and documentation skills
